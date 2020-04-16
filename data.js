@@ -18,7 +18,7 @@ const main = {
     {
       name: 'DEV',
       iconName: 'fab fa-dev',
-      link: 'https://www.linkedin.com/in/jackelinenascimento/'
+      link: 'https://dev.to/jackelinenascimento'
     },
     {
       name: 'Mail',
