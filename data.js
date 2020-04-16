@@ -7,17 +7,22 @@ const main = {
   connects: [
     {
       name: 'Github',
-      iconName: 'logo-github',
+      iconName: 'fab fa-github',
       link: 'https://github.com/jackelinenascimento'
     },
     {
       name: 'Linkedin',
-      iconName: 'logo-linkedin',
+      iconName: 'fab fa-linkedin',
+      link: 'https://www.linkedin.com/in/jackelinenascimento/'
+    },
+    {
+      name: 'DEV',
+      iconName: 'fab fa-dev',
       link: 'https://www.linkedin.com/in/jackelinenascimento/'
     },
     {
       name: 'Mail',
-      iconName: 'mail-outline',
+      iconName: 'far fa-envelope',
       link: `mailto:${'jackeline_nascimento@hotmail.com'}?Subject=Hello%20again`
     }
   ],
